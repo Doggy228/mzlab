@@ -1,0 +1,15 @@
+body {
+  background-color: lightgray;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: navy;
+}
+
+p {
+  color: darkblue;
+  font-size: 18px;
+}
