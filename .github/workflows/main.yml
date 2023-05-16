@@ -15,6 +15,7 @@ jobs:
       - name: Lint Action
         uses: actions-hub/stylelint@master
         env:
+          INDENT_SPACES: 2
           PATTERN: "**/*.css"
 
       - name: Login to Docker Hub
